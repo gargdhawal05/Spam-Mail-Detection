@@ -39,4 +39,4 @@ The accuracy of each model is calculated and compared to determine the best perf
 
 ## Conclusion
 
-In this project, we have successfully built and evaluated multiple machine learning models to detect spam emails. The performance of each model was compared using accuracy and confusion matrices. Additionally, word cloud visualizations provided insights into the most common words in spam and ham emails. The code and methods demonstrated here can be further expanded and improved for more robust spam detection systems.
+In this project, I have successfully built and evaluated multiple machine learning models to detect spam emails. The performance of each model was compared using accuracy and confusion matrices. Additionally, word cloud visualizations provided insights into the most common words in spam and ham emails.
